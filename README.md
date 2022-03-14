@@ -22,7 +22,7 @@ When password is generated it will be displayed in alert or written to page
 Made with: HTML CSS Javascript
 
 
-Website: https://elleak.github.io/Javascript-Challenge-3/
+Website: 
 
 GitHub URL: https://github.com/ElleAK/Javascript-Challenge-3.git
 
