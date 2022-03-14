@@ -22,6 +22,7 @@ var upperCase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"
 function generatePassword () {
   var password = prompt ("How many characters would you like to use?")
   if (password > 8 && password < 128)
+  
   var password = prompt ("Would you like to include uppercase characters?")
 
   return password;
