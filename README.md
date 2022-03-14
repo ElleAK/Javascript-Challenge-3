@@ -26,4 +26,5 @@ Website: https://elleak.github.io/Javascript-Challenge-3/
 
 GitHub URL: https://github.com/ElleAK/Javascript-Challenge-3.git
 
-image
+![image](https://user-images.githubusercontent.com/91795114/158096994-be1953d9-dd87-434d-9dc3-fe823f131d1e.png)
+
