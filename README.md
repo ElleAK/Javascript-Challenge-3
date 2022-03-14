@@ -25,3 +25,5 @@ Made with: HTML CSS Javascript
 Website: https://elleak.github.io/Javascript-Challenge-3/
 
 GitHub URL: https://github.com/ElleAK/Javascript-Challenge-3.git
+
+![image](https://user-images.githubusercontent.com/91795114/158095414-4bff9724-9574-4e22-967d-83ddd3bb41be.png)
